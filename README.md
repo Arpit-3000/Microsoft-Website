@@ -23,6 +23,11 @@ This is a static frontend-only clone of the **Microsoft** official homepage, bui
 
 ---
 
+## 📞 Contact
+
+For queries, feedback, or suggestions, reach out at:  
+📧 arpitcollege1205@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/arpit-srivastava-0b58b5286/)
 ## 📁 Project Features
 
 - 🔹 Clone of the official Microsoft homepage design
